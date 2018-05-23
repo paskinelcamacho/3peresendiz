@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4{
+    text-align: center;
+}
+#creditos{
+	
+	position: absolute;
+    margin-left: 250px;
+	width: 350px;
+	height: 300px;
+	overflow:auto;
+	font-family:Arial;
+	font-size:0.8em;
+	border:1px solid #808080;
+	background-color:#f1f1f1;
+}
+#logouna1{
+    position: absolute;
+    margin-left: 610px;
+}
+#logofca{
+    position: relative;
+    margin-left: 610px;
+    margin-top: -190px;
+}
